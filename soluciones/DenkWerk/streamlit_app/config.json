@@ -1,0 +1,29 @@
+{
+  "emission_factors": {
+    "domestic_flight": 246,
+    "international_flight": 195,
+    "rail": 35,
+    "bus": 105,
+    "car": 192
+  },
+  "average_distances": {
+    "domestic": 500,
+    "international": 2500
+  },
+  "radiative_forcing_index": 1.9,
+  "key_metrics": {
+    "total_emissions_mt": 19.283697843247083,
+    "total_passengers_m": 34.6790741394397,
+    "countries_analyzed": 90,
+    "years_analyzed": 10,
+    "holiday_uplift_percent": 7.0276692857866365,
+    "peak_concentration_percent": 38.7357133033883
+  },
+  "intervention_potentials": {
+    "rail_modal_shift": 35,
+    "sustainable_aviation_fuel": 25,
+    "carbon_pricing": 20,
+    "fleet_efficiency": 15,
+    "demand_shifting": 10
+  }
+}
